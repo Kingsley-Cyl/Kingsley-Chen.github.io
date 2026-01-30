@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yilin Chen (陈逸霖), a Master’s student in Computer Science and Technology at Shanghai Normal University. My research focuses on low-quality image enhancement and image restoration under adverse weather conditions (e.g., rain and multi-weather degradations), with an emphasis on deep learning-based restoration architectures.
+# 👋 About Me
+I am **Yilin Chen** (陈逸霖), a Master’s student in Computer Science and Technology at Shanghai Normal University (SHNU), under the supervision of Prof. [Xiao Lin](https://teacher.shnu.edu.cn/xxjdgcxy/lx/list.htm). My research focuses on low-quality image enhancement, image restoration under adverse weather conditions and feed-forward scene reconstruction. If you’re interested in my research, feel free to reach out. I’d be happy to discuss questions, suggestions, or potential collaborations.
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 One co-author paper is accepted by *Displays*.
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted by *Pattern Recognition*
+- 2025.12: &nbsp;🎉🎉 One co-author paper is accepted by *Displays*.
+- 2025.10: &nbsp;🎉🎉 One paper is accepted by *Pattern Recognition*.
 
 
 # 📝 Publications 
@@ -41,17 +42,17 @@ I am Yilin Chen (陈逸霖), a Master’s student in Computer Science and Techno
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2023.09 - now, Computer Science and Technology, Shanghai Normal University (SHNU). 
+- 2019.09 - 2023.06, Computer Science and Technology, Nanjing Institute of Technology (NJIT). 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
