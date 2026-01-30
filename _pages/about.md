@@ -37,7 +37,7 @@ I am **Yilin Chen** (陈逸霖), a Master’s student in Computer Science and Te
 
 Xiao Lin^, **Yilin Chen**^, Duojiu Xu, Qizhe Yang*, Yan Li, Wei Huang, Ping Li
 
-Pattern Recognition (**PR**), 2025 [CCF B]
+Pattern Recognition (**PR**), 2025 <span style="color: #f00;">[CCF B]</span>
 
 [[Paper](https://doi.org/10.1016/j.patcog.2025.112561)] 
 </div>
@@ -58,10 +58,10 @@ Displays, 2025.
 
 
 # 🎖 Selected Honors and Awards
-2023.09-now (Shanghai Normal University):
+<span style="font-size: 1.2em;">2023.09-now (Shanghai Normal University):</span>
 - National Scholarship (**The highest national wide scholarship for students in China**)
 
-2019.09-2023.06 (Nanjing Institute of Technology):
+<span style="font-size: 1.2em;">2019.09-2023.06 (Nanjing Institute of Technology):</span>
 - National Scholarship (**The highest national wide scholarship for students in China**)
 - Outstanding Graduates of Jiangsu Province
 
