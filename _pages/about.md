@@ -66,8 +66,8 @@ Displays, 2025.
 - Outstanding Graduates of Jiangsu Province
 
 # 📖 Educations
-- 2023.09 - now, Computer Science and Technology, Shanghai Normal University (SHNU). 
-- 2019.09 - 2023.06, Computer Science and Technology, Nanjing Institute of Technology (NJIT). 
+- 2023.09-now: Computer Science and Technology, Shanghai Normal University (SHNU). 
+- 2019.09-2023.06: Computer Science and Technology, Nanjing Institute of Technology (NJIT). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
